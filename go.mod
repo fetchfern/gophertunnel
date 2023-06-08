@@ -1,4 +1,4 @@
-module github.com/sandertv/gophertunnel
+module github.com/fetchfern/gophertunnel
 
 go 1.18
 
@@ -25,3 +25,5 @@ require (
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 )
+
+replace github.com/sandertv/gophertunnel => github.com/fetchfern/gophertunnel
