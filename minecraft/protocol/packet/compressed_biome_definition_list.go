@@ -1,7 +1,7 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/fetchfern/gophertunnel/minecraft/protocol"
 )
 
 // CompressedBiomeDefinitionList is sent by the server to send a list of biomes to the client. The contents of this packet

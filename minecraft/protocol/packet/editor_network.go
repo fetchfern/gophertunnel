@@ -1,8 +1,8 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/fetchfern/gophertunnel/minecraft/nbt"
+	"github.com/fetchfern/gophertunnel/minecraft/protocol"
 )
 
 // EditorNetwork is a packet sent from the server to the client and vise-versa to communicate editor-mode related

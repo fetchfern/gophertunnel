@@ -26,4 +26,4 @@ require (
 	google.golang.org/protobuf v1.28.1 // indirect
 )
 
-replace github.com/sandertv/gophertunnel => github.com/fetchfern/gophertunnel
+replace github.com/fetchfern/gophertunnel => github.com/fetchfern/gophertunnel v0.0.0

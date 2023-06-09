@@ -1,8 +1,8 @@
 package minecraft
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/fetchfern/gophertunnel/minecraft/protocol"
+	"github.com/fetchfern/gophertunnel/minecraft/protocol/packet"
 )
 
 // Protocol represents the Minecraft protocol used to communicate over network. It comprises a unique set of packets

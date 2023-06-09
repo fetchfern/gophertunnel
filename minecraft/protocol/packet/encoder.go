@@ -5,7 +5,7 @@ import (
 	"crypto/aes"
 	"crypto/cipher"
 	"fmt"
-	"github.com/sandertv/gophertunnel/internal"
+	"github.com/fetchfern/gophertunnel/internal"
 	"io"
 )
 

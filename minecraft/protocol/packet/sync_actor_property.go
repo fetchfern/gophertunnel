@@ -1,8 +1,8 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/fetchfern/gophertunnel/minecraft/nbt"
+	"github.com/fetchfern/gophertunnel/minecraft/protocol"
 )
 
 // SyncActorProperty is an alternative to synced actor data.
